@@ -1,0 +1,84 @@
+* {
+            
+            margin: 5px;
+            padding: 0;
+            
+            
+        }
+        
+        body {
+            display:flex;
+            align-items: center;
+            justify-content: center;
+            padding-top: 20vh;
+           background-image: url(y.jpg);
+            }
+        
+            
+        .hed {
+            font-size: 30px;
+            text-align: center;
+            margin-bottom: 10px;
+        }
+        
+        
+        p {
+            font-size: 1rem;
+            color: rgb(126, 125, 125);
+            padding: -2px 98px;
+
+            
+        }
+        
+        .box1 {
+            width: 50%;
+            padding: 0px 5px;
+           
+        }
+        
+        .takval,
+        #unit {
+            width: 86%;
+            font-size: 22px;
+            height: 23px;           
+            
+                    }
+        
+        #unit {
+            font-size: 1.1rem;
+            margin-top: 4.5px;
+        }
+        
+        .valuecontainer {
+            margin: 10px 2px;
+            margin-top: 20px;
+           
+        }
+        .container{
+            
+            padding-left: 20%;
+            padding-right:20%;
+        }
+        .value {
+            width: 80%;
+            height: 30px;
+            margin: 0px 8px;
+            font-size: 1.4rem;
+            border-bottom: 1px solid rgb(126, 125, 125);
+        }
+        
+        .button {
+            width: 80%;
+            height: auto;
+            font: 1.6rem;
+            color: white;
+            background-color: rgb(69, 112, 241);
+            border-radius: 10px;
+            padding: 4px;
+            border: none;
+            cursor: pointer;
+            margin: 20px 0 0 0;
+        }
+       
+        
+            
